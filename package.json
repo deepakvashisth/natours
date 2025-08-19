@@ -1,0 +1,11 @@
+{
+  "name": "natours-api",
+  "version": "1.0.0",
+  "description": "this is a project written in node.js for booking of various camps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepak Vashisth",
+  "license": "ISC"
+}
